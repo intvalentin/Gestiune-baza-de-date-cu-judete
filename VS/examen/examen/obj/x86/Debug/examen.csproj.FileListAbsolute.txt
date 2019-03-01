@@ -1,0 +1,9 @@
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\bin\Debug\examen.exe.config
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\bin\Debug\examen.exe
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\bin\Debug\examen.pdb
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.Form1.resources
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.Properties.Resources.resources
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.csproj.GenerateResource.Cache
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.exe
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.pdb
+C:\Users\student.E28-8-PC\Desktop\Olteanu Ionut Valentin Examen TAP\Rezolvare\VS\examen\examen\obj\x86\Debug\examen.csprojResolveAssemblyReference.cache
